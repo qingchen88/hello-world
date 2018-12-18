@@ -1,3 +1,3 @@
 # hello-word
 Just another repository
-haha
+这是第一次提交代码
